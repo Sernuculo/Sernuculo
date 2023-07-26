@@ -11,7 +11,7 @@ Desarrollo de webs personalizadas que cumplan con los requerimientos de los usua
 Objetivos 📃 
 Superación y evolución tanto de manera personal cómo para quién requiera de mis conocimientos y habilidades. Sólo hay un camino en una dirección en común y es el éxito.
 
- 💻 Las herramientas principales son;
+💻 Las herramientas principales que utilizo:
 
 JavaScript
 React.js
@@ -23,5 +23,6 @@ PostgreSQL
 GIT
 CSS modules
 HTML Y CSS
+
 Tools:
 css3 express git html5 javascript jest mysql nodejs postgresql postman react redux
